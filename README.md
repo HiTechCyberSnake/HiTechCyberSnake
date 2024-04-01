@@ -50,19 +50,19 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="20" alt="python logo"  />
-  <img width="100" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=c" height="20" alt="c logo"  />
-  <img width="100" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=cpp" height="20" alt="cplusplus logo"  />
-  <img width="100" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=cs" height="20" alt="csharp logo"  />
-  <img width="100" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=java" height="20" alt="java logo"  />
-  <img width="100" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=js" height="20" alt="javascript logo"  />
-  <img width="100" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=html" height="20" alt="html5 logo"  />
-  <img width="100" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=css" height="20" alt="css3 logo"  />
 </div>
 
